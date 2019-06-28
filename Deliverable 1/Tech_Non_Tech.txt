@@ -1,0 +1,14 @@
+
+Understanding the TVM, we can classify its features into Technical and Non-Technical Environments
+
+1. Technical :-
+(a) Hardware : It is important how the hardware is designed because Software and Hardware must have a strong co-ordination and should function properly.
+(b) Software : Based on the specific type of Hardware, special software is designed for the functionality of TVM, it is designed in a way so that even a common person can understand easily
+(c) Screen Type : It should be Button Specific on the side of the screen because Touch Screen could be difficult when there a number of options on the screen
+(d) Keypad : Only normal people are not the only ones that are travelling, there could be people with some impairment, so the keypad should only be at a certain height and the quality of the material should be very durable and flexible. Also Green, Red and Yellow color should be respectively used and highlighted on the keypad for OK, CANCEL and CLEAR options
+(e) Network Availability : Network should always be connected to Internet and available 24/7 because of verification of different kinds of passes and inserting and updating the information in the TVM Database
+(f) Reliability : Technical Support team should be aware if any TVM malfunctions and should be fixed as soon as possible. Also the downtime should be minimal as possible
+
+2. Non-Technical:
+(a) Weather Conditions : Since TVMs are usually placed in places which are covered under some roof. Still it should be able to handle a certain degree of coldness and warmness
+(b) Age Group : Since except for children, everyone has to buy ticket to travel from one place to another. For younger people it is easier to see the keypad but for older people and other impairment people it is difficult, so the screen and the keypad should be easy to understand even for the first timers
